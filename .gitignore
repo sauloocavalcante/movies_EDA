@@ -1,0 +1,26 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos (opcional — descomente se não quiser versionar)
+# data/*.csv
+
+# Variáveis de ambiente / segredos
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
